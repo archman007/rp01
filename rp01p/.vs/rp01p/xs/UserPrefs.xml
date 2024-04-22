@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F3AA618B-03ED-488F-93E1-9A48013D8C96}|Default">
+  <MonoDevelop.Ide.ItemProperties.rp01p FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rp01p/Startup.cs">
+    <Files>
+      <File FileName="rp01p/bower.json" Line="1" Column="1" />
+      <File FileName="rp01p/Program.cs" Line="1" Column="1" />
+      <File FileName="rp01p/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rp01p" expanded="True">
+            <Node name="rp01p" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
